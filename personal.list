@@ -3,7 +3,6 @@
 # REPO: https://github.com/m00vie/SR_conf
 # UPDATED: 11-09-2024
 
-
+DOMAIN-KEYWORD,ipswbeta,Proxy
 DOMAIN-KEYWORD,pornhub,Proxy
 DOMAIN-KEYWORD,phncdn,Proxy
-DOMAIN-KEYWORD,ipswbeta,Proxy
