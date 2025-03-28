@@ -6,3 +6,5 @@
 DOMAIN-KEYWORD,ipswbeta,Proxy
 DOMAIN-KEYWORD,pornhub,Proxy
 DOMAIN-KEYWORD,phncdn,Proxy
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy #gemini
+DOMAIN-SUFFIX,gemini.google.com,Proxy #gemini
