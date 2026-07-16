@@ -3,7 +3,6 @@
 # REPO: https://github.com/m00vie/SR_conf
 # UPDATED: 11-09-2024
 
-DOMAIN-KEYWORD,ipswbeta,Proxy
 DOMAIN-KEYWORD,f1calendar,Proxy
 DOMAIN-KEYWORD,pornhub,Proxy
 DOMAIN-KEYWORD,hetzner,Proxy
@@ -13,6 +12,8 @@ DOMAIN-KEYWORD,ntc,Proxy
 DOMAIN-SUFFIX,ntc.rkn.quest,Proxy
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy #gemini
 DOMAIN-SUFFIX,gemini.google.com,Proxy #gemini
+DOMAIN-KEYWORD,github,Proxy
+# DOMAIN-KEYWORD,ipswbeta,Proxy
 
 
 # правила для TikTok
