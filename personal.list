@@ -7,13 +7,13 @@ DOMAIN-KEYWORD,f1calendar,Proxy
 DOMAIN-KEYWORD,hetzner,Proxy
 DOMAIN-KEYWORD,tuta,Proxy
 DOMAIN-KEYWORD,ntc,Proxy
-DOMAIN-SUFFIX,ntc.rkn.quest,Proxy
 DOMAIN-KEYWORD,github,Proxy
 DOMAIN-KEYWORD,pornhub,Proxy
 DOMAIN-KEYWORD,phncdn,Proxy
 DOMAIN-KEYWORD,phnstatic,Proxy
 DOMAIN-KEYWORD,phprcdn,Proxy
-DOMAIN-SUFFIX,modelhub.com,Proxy
+DOMAIN-KEYWORD,modelhub,Proxy
+DOMAIN-SUFFIX,ntc.rkn.quest,Proxy
 
 # Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy
