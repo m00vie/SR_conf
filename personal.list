@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,phnstatic,Proxy
 DOMAIN-KEYWORD,phprcdn,Proxy
 DOMAIN-KEYWORD,modelhub,Proxy
 DOMAIN-SUFFIX,ntc.rkn.quest,Proxy
+DOMAIN-SUFFIX,audiotec-fischer.de,Proxy
 
 # Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy
