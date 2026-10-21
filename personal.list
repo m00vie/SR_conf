@@ -24,6 +24,13 @@ DOMAIN-SUFFIX,amazon.ae,Proxy
 # Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy
 DOMAIN-SUFFIX,gemini.google.com,Proxy
+DOMAIN-SUFFIX,1e100.net,PROXY
+DOMAIN-SUFFIX,gcr.io,PROXY
+DOMAIN-SUFFIX,googleapis.com,PROXY
+DOMAIN-SUFFIX,googleusercontent.com,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
+
+
 
 # правила для TikTok
 USER-AGENT,TikTok*,PROXY
