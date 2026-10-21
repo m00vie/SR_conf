@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,gcr.io,PROXY
 DOMAIN-SUFFIX,googleapis.com,PROXY
 DOMAIN-SUFFIX,googleusercontent.com,PROXY
 DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-KEYWORD,deepmind,PROXY
+DOMAIN-KEYWORD,generativeai,PROXY
+DOMAIN-SUFFIX,google.dev,PROXY
 
 
 
