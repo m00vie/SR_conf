@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,phncdn,Proxy
 DOMAIN-KEYWORD,phnstatic,Proxy
 DOMAIN-KEYWORD,phprcdn,Proxy
 DOMAIN-KEYWORD,modelhub,Proxy
+
 DOMAIN-SUFFIX,ntc.rkn.quest,Proxy
 DOMAIN-SUFFIX,audiotec-fischer.de,Proxy
 DOMAIN-SUFFIX,t.co,Proxy
@@ -23,14 +24,21 @@ DOMAIN-SUFFIX,amazon.ae,Proxy
 
 
 # Gemini
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,Proxy
-DOMAIN-SUFFIX,gemini.google.com,Proxy
-DOMAIN-SUFFIX,1e100.net,PROXY
-DOMAIN-SUFFIX,gcr.io,PROXY
-DOMAIN-SUFFIX,googleapis.com,PROXY
 DOMAIN-SUFFIX,googleusercontent.com,PROXY
-DOMAIN-SUFFIX,gstatic.com,PROXY
+
+DOMAIN-KEYWORD,google,PROXY
+DOMAIN-KEYWORD,gemini,PROXY
+DOMAIN-KEYWORD,gstatic,PROXY
+DOMAIN-KEYWORD,googleapis,PROXY
 DOMAIN-KEYWORD,deepmind,PROXY
+DOMAIN-KEYWORD,1e100,PROXY
+DOMAIN-KEYWORD,gcr,PROXY
+DOMAIN-KEYWORD,ytimg,PROXY
+DOMAIN-KEYWORD,ggpht,PROXY
+DOMAIN-KEYWORD,goo,PROXY
+DOMAIN-KEYWORD,appspot,PROXY
+DOMAIN-KEYWORD,gmodules,PROXY
+
 DOMAIN-KEYWORD,generativeai,PROXY
 DOMAIN-SUFFIX,google.dev,PROXY
 
@@ -39,7 +47,7 @@ DOMAIN-SUFFIX,google.dev,PROXY
 # правила для TikTok
 USER-AGENT,TikTok*,PROXY
 DOMAIN-KEYWORD,tiktok,PROXY
-DOMAIN-KEYWORD,musical.ly,PROXY
+DOMAIN-KEYWORD,musical,PROXY
 DOMAIN-SUFFIX,bytedapm.com,PROXY
 DOMAIN-SUFFIX,bytegecko-i18n.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
