@@ -25,8 +25,6 @@ DOMAIN-SUFFIX,amazon.ae,Proxy
 
 
 # Gemini
-DOMAIN-SUFFIX,googleusercontent.com,PROXY
-
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,gemini,PROXY
 DOMAIN-KEYWORD,gstatic,PROXY
@@ -39,9 +37,10 @@ DOMAIN-KEYWORD,ggpht,PROXY
 DOMAIN-KEYWORD,goo,PROXY
 DOMAIN-KEYWORD,appspot,PROXY
 DOMAIN-KEYWORD,gmodules,PROXY
-
 DOMAIN-KEYWORD,generativeai,PROXY
+
 DOMAIN-SUFFIX,google.dev,PROXY
+DOMAIN-SUFFIX,googleusercontent.com,PROXY
 
 
 
